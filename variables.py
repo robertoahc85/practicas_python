@@ -15,9 +15,9 @@ fullName = nombre + " " + apellido
 print(fullName)
 # Variable tipo boolean
 lampara=True
-print(lampara)
+print("la lampara esta encendida",lampara)
 lampara=False
-print(lampara)
+print("la lampara esta apagada",lampara)
 
 
 
