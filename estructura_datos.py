@@ -11,3 +11,15 @@ print(frutas)
 
 frutas.append("Lichi")
 print(frutas)
+
+numeroPrimos.append(13)
+print(numeroPrimos)
+
+#tupla
+dimensiones = (1920,1080)
+coordenadas = (10,20)
+print(type(dimensiones))
+print(type(coordenadas))
+puntos=(10,20)
+puntos[1]=30
+
