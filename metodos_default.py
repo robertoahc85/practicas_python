@@ -104,14 +104,14 @@ set.add(elem)# Agrega un elemento al conjunto.
 conjunto = {1, 2, 3}
 conjunto.add(4)
 print(conjunto)  # Output# {1, 2, 3, 4}
-set.remove(elem)# Elimina un elemento del conjunto. Lanza una excepción si el elemento no está presente.
+set.remove(2)# Elimina un elemento del conjunto. Lanza una excepción si el elemento no está presente.
 
 
 
 conjunto = {1, 2, 3}
 conjunto.remove(2)
 print(conjunto)  # Output# {1, 3}
-set.discard(elem)# Elimina un elemento del conjunto si está presente. No lanza excepción si el elemento no está presente.
+set.discard(3)# Elimina un elemento del conjunto si está presente. No lanza excepción si el elemento no está presente.
 
 
 
