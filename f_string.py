@@ -9,3 +9,5 @@ print(f"el total de tu compra es: {precio1 + precio2}")
 # if dentro de un print
 temperatura=0
 print(f"la temperaturas esta {"alta" if temperatura >25 else "baja"}")
+#imprimir llave dentro  de un fstring
+print(f"esta un texto con llaves {{esta va dentro de llave}}")
