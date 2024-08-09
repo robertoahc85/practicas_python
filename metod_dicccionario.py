@@ -5,7 +5,7 @@
 diccionario = {'nombre': 'Juan', 'edad': 30}
 print(diccionario.get('nombre'))  # Output: Juan
 print(diccionario.get('altura', 'No especificado'))  # Output: No especificado
-dict.keys()
+
 
 # Descripción: Devuelve una vista de todas las claves del diccionario.
 
