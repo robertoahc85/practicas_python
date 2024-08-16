@@ -1,15 +1,19 @@
 class Figuras:
     def calcular_perimetro():
         pass
+    
 class Cuadrado:
     def perimetro(self,lado):
         return lado * 4
+    
 class Pentagono:  
     def perimetro(self,lado):
         return lado * 5
+    
 class Exagono:  
     def perimetro(self,lado):
-        return lado * 6   
+        return lado * 6  
+     
 class Octagono:
     def perimetro(self,lado): 
         return   lado * 8    
