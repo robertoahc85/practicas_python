@@ -15,7 +15,7 @@ class GestorTareas:
         pass
     def hacer_respaldo(self):
         pass
-        
+ #Completar los menus, agregar excepcion        
              
  
 def main():
@@ -39,4 +39,5 @@ def main():
             print("opcion no valida")    
 
 if __name__ == '__main__':
-    main()                    
+    main()   
+    /Users/roberto.hernanderz/Documents/Eductecno/Phyton 2024/Practicas /python-Modulo3-4/practicas_python/files                 
